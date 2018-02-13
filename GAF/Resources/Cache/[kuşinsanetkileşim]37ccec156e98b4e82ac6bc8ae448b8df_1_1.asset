@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: "[kus\u0327insanetkiles\u0327im]37ccec156e98b4e82ac6bc8ae448b8df_1_1"
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 37ccec156e98b4e82ac6bc8ae448b8df, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/
+  m_Data:
+  - m_SearchName: "kus\u0327insanetkiles\u0327im"
+    m_SharedTexture: {fileID: 2800000, guid: 6eb4f4bdf4b8b4330b60e8879fe9c3b1, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: 5371984b4d49d4f0fa5f9a0efb28a141, type: 2}
